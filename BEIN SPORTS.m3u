@@ -4,8 +4,7 @@
 # © 2025 APPS TV | M3U - All Rights Reserved
 
 #EXTINF:-1 group-title="BEIN SPORTS",*******beIN Sports Arabic***** | APPS TV | M3U
-http://dp-elite.net:2095/play/live.php?mac=00:1A:79:C3:ED:B7&stream=1&extension=m3u8
-#EXTINF:-1 group-title="BEIN SPORTS",beIN Sports Newsᴴᴰ⁺ | APPS TV | M3U
+
 http://dp-elite.net:2095/play/live.php?mac=00:1A:79:C3:ED:B7&stream=2&extension=m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",beIN Sports Globalᴴᴰ⁺ | APPS TV | M3U
 http://dp-elite.net:2095/play/live.php?mac=00:1A:79:C3:ED:B7&stream=3&extension=m3u8
