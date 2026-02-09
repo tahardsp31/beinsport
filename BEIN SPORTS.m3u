@@ -1,420 +1,781 @@
+
+
 #EXTM3U
 
-
-
-
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS NEWS SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=274145&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS GLOBAL SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=274143&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports Global SD (B)
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1813398&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 1 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2541&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 1 SD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245836&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 1 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269952&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 2 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2540&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 2 SD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245835&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 2 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269953&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2538&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 3 SD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245833&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269954&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 4 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=10795&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 4 SD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245832&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 4 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269962&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 5 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2536&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 5 SD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245831&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 5 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269956&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 6 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2535&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 6 SD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245830&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 6 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269957&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 7 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2534&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 7 SD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245829&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 7 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269958&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 8 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2533&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 8 SD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245828&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 8 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269961&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 9 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2532&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 9 Nexus SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269960&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SP⚽RTS 9 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245827&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XTRA 1 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117126&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XTRA 2 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117131&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XSTRA 3 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2539&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS XSTRA 3 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245834&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XTRA 4 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572903&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XTRA 5 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572907&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XTRA 6 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572911&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XTRA 7 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572915&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XTRA 8 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572919&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports XTRA 9 SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572923&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 1 EN SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=49727&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 1 EN SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245826&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sport English SD 1
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269965&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 2 EN SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=49728&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 2 EN SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245825&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sport English SD 2
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269968&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports NBA SD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=57044&extension=m3u8
-
-
-
-
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1515459&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports News HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=28939&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports Global HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=28938&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports Global HD (B)
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1813397&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN. ULTRA UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=312095&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN REPLAY FINAL UCL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=235750&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN REPLAY FINAL FA CUP
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=235755&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534831&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122212&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108161&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121789&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 1 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272468&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534830&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122213&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108162&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121790&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 2 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272467&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=4&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534829&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122214&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 HD BEEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108164&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121791&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272465&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=5&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534828&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122215&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108165&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121792&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 4 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272464&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=6&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534827&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122216&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 HD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108166&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121793&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 5 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272463&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=7&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534826&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122217&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 HD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108167&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121794&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 6 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272462&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=8&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=578834&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122218&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 HD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108168&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121795&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 7 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272461&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=9&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=578835&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122219&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 HD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108169&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121796&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 8 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272460&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=10&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 ᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=578836&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 Nexus
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122220&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 HD BEE TV
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108170&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 APPEL
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121797&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 9 TOD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272459&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 1 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117124&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 1 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117125&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 2 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117129&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 2 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117130&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 3 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XSTRA 3 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108163&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 4 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572902&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 5 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572906&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 6 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572910&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 7 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572914&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 8 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572918&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 9 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572922&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 EN HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2531&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sport English HD 1
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269964&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 EN HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=10369&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sport English HD 2
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269967&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 UHD FR
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD FR
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=11016&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 UHD FR
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=15&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD FR
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=11017&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports Nba HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3845&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",#######BEIN SPORTS 1 720#######
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156649&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 2 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156648&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 3 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156647&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 4 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156646&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 5 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156645&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 6 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156644&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 7 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156643&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 8 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156642&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 9 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156641&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156640&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156639&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 1 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156638&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 2 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156637&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 3 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156636&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS  AFC 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156635&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 1 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156634&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 2 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156633&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 3 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156632&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 1 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156631&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 2 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156630&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 3 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156629&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 4 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156628&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 5 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156627&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 6 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156626&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 7 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156625&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 8 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156624&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 9 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156623&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156622&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156621&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 1 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156620&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 2 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156619&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 3 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156618&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS  AFC 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156617&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 1 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156616&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 2 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156615&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 3 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156614&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 1 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156613&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 2 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156612&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 3 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156611&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 4 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156610&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 5 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156609&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 6 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156608&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 7 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156607&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 8 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156606&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 9 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156605&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156604&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156603&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS NX",BEIN SPORTS  AFC 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156602&extension=m3u8
 
 
 
 
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 1
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492949&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 1
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492950&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 1 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492951&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 1 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492952&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 2
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492953&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 2
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492954&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 2 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492955&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 2 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492956&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 3
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492957&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 3
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492958&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 3 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492959&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 3 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492960&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 4
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492961&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 4
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492962&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 4 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492963&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 4 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492964&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 5
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492965&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 5
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492966&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 5 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492967&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 5 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492968&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 6
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492969&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 6
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492970&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 6 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492971&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT DELAY",Bein Sports 6 
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=492972&extension=m3u8
 
 
 
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports Global UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=43&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN SPORTS NEWS UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=22198&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports News UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=44&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN SPORTS GLOBAL 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=22199&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114053&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3854&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269943&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114052&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3853&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269944&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114050&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3851&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269945&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114049&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3850&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269946&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 5 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114048&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 5 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3849&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 5 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269947&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 6 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114047&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 6 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3848&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 6 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269948&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 7 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114046&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 7 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3847&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 7 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269949&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 8 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114045&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 8 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=10361&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 8 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269950&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 9 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114044&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 9 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=10362&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 9 Nexus 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269951&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 1 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117123&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 2 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117128&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 XTRA UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=114051&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 3 UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3852&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 4 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572904&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 5 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572908&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 6 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572912&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 7 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572916&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 8 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572920&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports XTRA 9 4K
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572924&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 EN ᵁᴴᴰ
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=11&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 EN HEVC
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=22195&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sport English 4k 1
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269963&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 EN HEVC
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=22196&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 FR UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149600&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 FR UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149601&extension=m3u8
-#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports NBA UHD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149602&extension=m3u8
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",#######BEIN SPORTS NEWS ᵁᴴᴰ 8K#######
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016905&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016906&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS1 ᵁᴴᴰ8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016907&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS2 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016908&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS3 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016909&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS4 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016910&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS5 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016911&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS6 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016912&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS7 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016913&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS8 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016914&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS9 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016915&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016918&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016919&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 1 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016920&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 2 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016921&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 3 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016922&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 4 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016923&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 5 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016924&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 6 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016925&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 7 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016926&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 8 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016927&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 9 ᵁᴴᴰ 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016928&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 1 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016929&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 2 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016930&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 3 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016931&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 4 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016932&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 5 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016933&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 6 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016934&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 7 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016935&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 8 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016936&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS G",BEIN SPORTS 9 Gᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1016937&extension=m3u8
 
 
+
+
+
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS ᴴᴰ #######
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178456&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS NEWS ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178455&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS GLOBAL ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178454&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178453&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178452&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178451&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178450&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178449&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178448&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178447&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178446&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178445&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 XTRA ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178444&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 XTRA ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178443&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 XTRA ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178442&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ENGLISH ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178441&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ENGLISH ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178440&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 FRANCE ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178439&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 FRANCE ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178438&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 FRANCE ᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178437&extension=m3u8
+
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS SD #######
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178436&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS NEWS SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178435&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS GLOBAL SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178434&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178433&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178432&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178431&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178430&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178429&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178428&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178427&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178426&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178425&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 XTRA SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178424&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 XTRA SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178423&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 XTRA SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178422&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ENGLISH SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178421&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ENGLISH SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178420&extension=m3u8
+
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS LQ #######
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178419&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS NEWS LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178418&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS GLOBAL LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178417&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178416&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178415&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178414&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178413&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178412&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178411&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178410&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178409&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178408&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 XTRA LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178407&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 XTRA LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178406&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 XTRA LQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178405&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS ʰᵉᵛᶜ #######
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178404&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178403&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178402&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178401&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178400&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178399&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178398&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178397&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178396&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178395&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 XTRA ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178394&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 XTRA ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178393&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 XTRA ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178392&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ENGLISH ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178391&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ENGLISH ʰᵉᵛᶜ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178390&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS ᴿᴬᵂ #######
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178389&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS NEWS ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178388&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS GLOBAL ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178387&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178386&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178385&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178384&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178383&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178382&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178381&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178380&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178379&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178378&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 XTRA ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178377&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 XTRA ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178376&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 XTRA ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178375&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ENGLISH ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178374&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ENGLISH ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178373&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 FRANCE ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178372&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 FRANCE ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178371&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 FRANCE ᴿᴬᵂ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1178370&extension=m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",##### BEIN SPORTS HEVC #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594520&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",TOD 360 ULTRA 4K ( EVENT ONLY )
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=973395&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS AR 4K [EVENT]
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1096850&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=958682&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=958683&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=958684&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594516&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594515&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594514&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594513&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594512&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594511&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594510&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 8 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594518&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 9 HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594517&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 XTRA HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=863375&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 XTRA HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=863374&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 XTRA HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=863373&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594509&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN HEVC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=594508&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",##### BEIN SPORTS ULTRA FHD #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550416&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS NEWS ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550402&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS GLOBAL ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550401&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550412&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550411&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550410&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550409&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550408&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550407&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550406&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 8 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550415&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 9 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550414&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 1 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=956025&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 2 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=956026&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 3 ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=956024&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550405&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550404&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 FR ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550403&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 FR ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=550413&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 FR ULTRA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=956022&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",##### BEIN SPORTS 4K #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653635&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS NEWS 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653634&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS GLOBAL 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653633&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653626&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653625&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653624&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653623&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653622&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653621&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653620&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 8 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653629&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 9 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653628&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 1 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653619&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 2 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653618&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 3 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653627&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 4 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1196253&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 5 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1196252&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 6 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1196251&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 7 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1196250&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 8 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1196249&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 9 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1196248&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653617&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653616&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS FRENCH 1 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653614&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS FRENCH 2 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653613&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS FRENCH 3 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=653615&extension=m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",##### BEIN SPORTS LQ ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971291&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS NEWS LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971292&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS GLOBAL LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971293&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971294&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971295&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971296&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 4 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971297&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 5 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971298&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 6 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971299&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 7 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971300&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 8 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971301&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 9 LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971302&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 XTRA LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971303&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 XTRA LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971304&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 XTRA LQ 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971305&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS NBA HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971290&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 FRANCE HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971289&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 FRANCE HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971288&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 FRANCE HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971287&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 ENGLISH HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971286&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 ENGLISH HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971285&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",##### BEIN SPORTS HD ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971270&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS NEWS HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971271&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS GLOBAL HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971272&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971273&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971274&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971275&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 4 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971276&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 5 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971277&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 6 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971278&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 7 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971279&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 8 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971280&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 9 HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971281&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 XTRA HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971282&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 XTRA HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971283&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 XTRA HD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971284&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",##### BEIN SPORTS HEVC ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971255&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971256&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971257&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971258&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 4 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971259&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 5 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971260&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 6 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971261&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 7 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971262&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 8 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971263&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 9 HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971264&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 XTRA HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971265&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 XTRA HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971266&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 XTRA HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971267&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 ENGLISH HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971268&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 ENGLISH HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971269&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",##### BEIN SPORTS FHD ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971231&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971232&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971233&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971234&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS NEWS FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971235&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS GLOBAL FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971236&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971237&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971238&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971239&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 4 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971240&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 5 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971241&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 6 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971242&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR -  BEIN  SPORTS 7 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971243&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR -  BEIN  SPORTS 8 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971244&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR -  BEIN  SPORTS 9 FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971245&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 XSTRA FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971246&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 XSTRA FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971247&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 XSTRA FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971248&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 ENGLISH FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971249&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 ENGLISH FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971250&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 1 FRANCE FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971251&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 2 FRANCE FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971252&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS 3 FRANCE FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971253&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS (UK)",AR - BEIN SPORTS NBA FHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=971254&extension=m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",##### CL REPLAY ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804241&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY INFO UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804240&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 1 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804238&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 2 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804237&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 3 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804236&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 4 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804235&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 5 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804234&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 6 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804233&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 7 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804232&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 8 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804231&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 9 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804230&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",CL REPLAY 10 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=804229&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",##### EL REPLAY ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856255&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY INFO UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856254&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 1 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856252&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 2 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856251&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 3 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856250&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 4 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856249&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 5 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856248&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 6 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856247&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 7 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856246&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 8 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856245&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 9 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856244&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 10 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856243&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN REPLAY",EL REPLAY 11 UHD 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=856242&extension=m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",##### BEIN SPORTS ᵁᴴᴰ #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987846&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 1 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987845&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 2 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987844&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 3 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987843&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 4 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987842&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 5 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987841&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 6 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987840&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 7 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987839&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 8 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987838&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 9 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987837&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS XTRA 1 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987836&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS XTRA 2 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987835&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS XTRA 3 ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987834&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS AFC ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987833&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 1 AFC ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987832&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 2 AFC ᵁᴴᴰ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=987831&extension=m3u8
+
+
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066883&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066882&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066881&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 1 HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066880&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 1 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066879&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 1 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066878&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 2 HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066877&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 2 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066876&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 2 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066875&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 3 HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066874&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 3 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066873&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 3 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066872&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 4 HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066871&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 4 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066870&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 4 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066869&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 5 HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066868&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 5 SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066867&extension=m3u8
+#EXTINF:-1 group-title="|AR| BEIN SPORTS AFC",BEIN SPORTS AFC 5 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1066866&extension=m3u8
